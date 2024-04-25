@@ -4,3 +4,5 @@ commands = {
   "grep" : "Completes a search based on the provided regular expression",
   "tar" : "Command is used to create, display and execute archives that incorporate files"
 }
+
+print(commands)
