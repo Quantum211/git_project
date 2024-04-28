@@ -7,7 +7,8 @@ commands = {
   "touch" : "Creates a new file. The filename is followed by the command as an argument",
   "rm" : "Removes a file",
   "mkdir" : "Creates a directory with a specified name",
-  "rmdir" : "Removes an empty directory"
+  "rmdir" : "Removes an empty directory",
+  "chmod" : "This command allows to configure permissions for the owner, group and others"
 }
 
 print(commands)
