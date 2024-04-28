@@ -5,7 +5,8 @@ commands = {
   "tar" : "Command is used to create, display and execute archives that incorporate files",
   "cp" : "Copies files and directories from one location to aanother",
   "touch" : "Creates a new file. The filename is followed by the command as an argument",
-  "rm" : "Removes a file"
+  "rm" : "Removes a file",
+  "mkdir" : "Creates a directory with a specified name",
 }
 
 print(commands)
